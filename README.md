@@ -43,4 +43,9 @@ The model training follows the structured process shown below:
 ---
 
 ## 🧩 Project Structure
-
+├── analysisData.ipynb # Data preprocessing and statistical analysis
+├── predict.ipynb # Model inference and visualization
+├── bot.ipynb # Interactive chatbot prototype (optional)
+├── Futureyes.ipynb # Future research and model enhancement
+├── Untitled1.ipynb # Experimental notebook
+└── README.md # Project documentation
